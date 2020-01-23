@@ -2,3 +2,17 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.rv-xy-plot {
+  margin: auto;
+}
+
+.wind {
+  border: solid 1px;
+  border-radius: 250px;
+}
+
+.pagination {
+  display: table;
+  margin: auto;
+}
